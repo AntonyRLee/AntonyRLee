@@ -17,7 +17,7 @@ Infograhics and communication documents are written in Latex or Markdown and use
 
 https://github.com/AntonyRLee
 
-By background is in mathematics and academic research:
+My background is in mathematics and academic research:
 
 https://arxiv.org/abs/1309.4419
 
