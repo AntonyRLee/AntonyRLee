@@ -16,8 +16,6 @@ My background is in mathematics and academic research: https://scholar.google.co
 
 Are you a geek and fancy something completely different? https://www.etsy.com/uk/shop/EquationT?ref=seller-platform-mcnav
 
-[![Social banner for arl]([https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg](https://github.com/AntonyRLee/logo/blob/main/logo/antlogo2_small.svg))](https://github.com/AntonyRLee)
+[![Social banner for arl](https://github.com/AntonyRLee/AntonyRLee/blob/main/assets/antlogo2.png)](https://github.com/AntonyRLee)
 
 <h1 align='center'> Hi! :wave:</h1>
-
-
