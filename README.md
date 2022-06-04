@@ -15,3 +15,7 @@ Skills:
 My background is in mathematics and academic research: https://scholar.google.com/citations?user=MYlPrE0AAAAJ&hl=en
 
 Are you a geek and fancy something completely different? https://www.etsy.com/uk/shop/EquationT?ref=seller-platform-mcnav
+
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+
+<h1 align='center'> Hi! :wave:</h1>
