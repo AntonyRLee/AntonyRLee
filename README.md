@@ -16,4 +16,4 @@ Skills:
 
 My background is in mathematics and academic research: https://scholar.google.com/citations?user=MYlPrE0AAAAJ&hl=en
 
-Are you a geek and fancy something completely different? https://www.etsy.com/uk/shop/EquationT?ref=seller-platform-mcnav
+Are you a geek and fancy something completely different? https://www.redbubble.com/people/antonyRlee/shop?asc=u
